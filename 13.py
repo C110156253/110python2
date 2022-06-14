@@ -1,6 +1,3 @@
-from tkinter.messagebox import NO
-
-
 x = input("輸入一字串：")
 s = ''
 s = x[::-1]

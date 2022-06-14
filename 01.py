@@ -1,4 +1,3 @@
-# 找出數字字串中的最大質數
 str1 = input("請輸入正整數：")
 list1 = []
 for i in range(len(str1)):

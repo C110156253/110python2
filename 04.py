@@ -1,6 +1,3 @@
-from tkinter import Y
-
-
 x = int(input("x軸座標"))
 y = int(input("y軸座標"))
 if (x == 0 and y  == 0):

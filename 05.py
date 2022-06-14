@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 M = int(input("請輸入階乘值M："))
 N=0
 total = 1
